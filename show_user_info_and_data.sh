@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 
 username=$(whoami)
 DIR_PATH=$(pwd)
